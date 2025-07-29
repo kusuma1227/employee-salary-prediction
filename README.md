@@ -46,7 +46,8 @@ This project uses machine learning to predict whether a person earns more than 5
 
 ## 🧑‍💻 Author
 
-- *Name*: Krapa KUSUMA
+- *Name*: Krapa Kusuma
+-  *GitHub*: [github.com/kusuma1227](https://github.com/kusuma1227)
 - 
 
 ---
